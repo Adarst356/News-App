@@ -8,7 +8,6 @@
 ## 📄 Features
 🗂️ Category-wise news (Tech, Sports, Health, etc.)
 
-🔄 Pull-to-refresh functionality
 
 🌐 Full article view in WebView
 
